@@ -14,9 +14,6 @@ if writeCheck != '' and writeCheck[0].lower() == 'y':
     writeReports=True
 
 
-### Pre-Script booleans
-reviewFailed=True
-
 #########################
 # Variables/Lists
 #########################
